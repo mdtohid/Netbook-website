@@ -12,7 +12,7 @@ const Header = () => {
     return (
        <div className='header'>
         <Navigation></Navigation>
-        <TextImage></TextImage>
+        {/* <TextImage></TextImage> */}
        </div>
     );
 };

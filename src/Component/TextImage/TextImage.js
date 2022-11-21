@@ -12,7 +12,7 @@ const TextImage = () => {
                 <button className='p-2 bg-primary border-0 rounded me-2 text-white '>About More</button>
                 <button className='p-2  border border-info rounded'>Invite Friend</button>
             </div>
-            <div className='col '>
+            <div className='col'>
             <img src={pic} className="avatarImg" alt="..."/>
             </div>   
         </div>
