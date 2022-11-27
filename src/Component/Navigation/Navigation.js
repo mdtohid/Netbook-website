@@ -13,7 +13,7 @@ const Navigation = () => {
     return (
         <Navbar className='border-bottom border-light border-2 p-2' bg={logo} expand="lg">
             <Container fluid>
-                <Navbar.Brand className='d-flex ms-5 me-5' href="#">
+                <Navbar.Brand className='d-flex logo me-5' href="#">
                         <div>
                         <img src={logo} alt=""/>
                         </div>

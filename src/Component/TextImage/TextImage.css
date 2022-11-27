@@ -11,3 +11,17 @@
 }
 
 
+
+@media only screen and (max-width: 600px) {
+    .introText{
+        width: 150px;
+        margin: auto 15px;
+    }
+    
+    .avatarImg{
+        width: 200px;
+        margin: 10px;      
+    }
+  }
+
+
