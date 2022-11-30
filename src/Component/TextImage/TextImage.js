@@ -4,7 +4,7 @@ import pic from '../../image/lamge.png';
 
 const TextImage = () => {
     return (
-            <div className='row gx-0'>
+                <div className='row gx-0'>
             <div className='col introText'>
                 <button className='p-2 bg-info border-0 rounded mb-2'>Netbook community</button>
                 <h1 className='mb-2'>Your Solutions For Community!</h1>

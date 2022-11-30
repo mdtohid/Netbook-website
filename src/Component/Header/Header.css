@@ -1,4 +1,5 @@
 .header{
-    /* height: 746px; */
+    height: 746px;
     background-image: url('../../image/base.png');
+    margin-bottom: 96px;
 }

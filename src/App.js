@@ -1,9 +1,11 @@
+import About from './Component/About/About';
 import Header from './Component/Header/Header';
 
 function App() {
   return (
-    <div className="">
+    <div>
       <Header></Header>
+      <About></About>
     </div>
   );
 }

@@ -1,5 +1,4 @@
 .introText{
-    width: 515px;
     height: 366px;
     margin:125px 69px 165px 135px;
 }
@@ -14,7 +13,6 @@
 
 @media only screen and (max-width: 600px) {
     .introText{
-        width: 150px;
         margin: auto 15px;
     }
     
