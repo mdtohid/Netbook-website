@@ -6,7 +6,7 @@ import about3 from '../../image/about3.png';
 
 const   About= () => {
     return (
-            <div className='row gx-0 about' >
+            <div className='row gx-0' >
            <div className='col aboutText' >
            <p>Whats netbooks?</p>
             <h1>Why Join to Netbook <br />
@@ -22,7 +22,7 @@ const   About= () => {
             </ul>
            </div>
            <div className='col aboutImg'>
-            <div className='row gx-0   align-items-center'>
+            <div className='row gx-0 align-items-center'>
             <div className='col about1'>
             <img src={about1} alt="" srcset="" />
             </div>
