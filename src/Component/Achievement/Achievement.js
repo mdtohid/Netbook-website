@@ -49,7 +49,7 @@ const Achievement = () => {
               </Card>
             </div>
 
-            <div className='col marginMd' >
+            <div className='col marginMd widthAchievement' >
                 <sm>Our Achievement</sm><br />
                 <h2>We are Connecting <br /> You The Digital Life.</h2>
                 <p className=''>

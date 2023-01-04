@@ -49,7 +49,7 @@ const Navigation = () => {
                     className="me-3 search"
                     aria-label="Search"
                     />
-                    <Button variant="outline-success" className='bg-primary text-white login me-5'>Search</Button>
+                    <Button variant="outline-success" className='bg-primary text-white login me-5 border-0'>Search</Button>
                 </Form>
                 </Navbar.Collapse>
             </Container>
