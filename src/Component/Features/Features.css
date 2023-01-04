@@ -4,35 +4,35 @@
     margin-left: 135px!important;
     margin-right: 75px!important; */
     background-image: url('../../image/featuresBase.png');
-    position: absolute;
+    /* position: absolute; */
 }
 
 .featuresSize{
-    margin:64px 176px;
+    padding:64px 176px;
 }
 
 
 @media only screen and (max-width: 1200px) {
     .featuresSize{    
-        margin:20px 80px;
+        padding:20px 80px;
     }
   }
 
 @media only screen and (max-width: 992px) {
     .featuresSize{    
-        margin:20px 5px;
+        padding:20px 5px;
     }
   }
   
 
 @media only screen and (max-width: 767px) {
     .featuresSize{    
-        margin:20px 70px;
+        padding:20px 70px;
     }
   }
 
 @media only screen and (max-width: 400px) {
     .featuresSize{    
-        margin:20px 40px;
+        padding:20px 40px;
     }
   }
