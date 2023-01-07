@@ -1,0 +1,23 @@
+.ctaBg{
+    background-image: url('../../image/ctmShape.png');
+}
+
+.ctaText{
+    margin-inline: 135px;
+}
+
+.imgPosition{
+    object-position: bottom!important;
+}
+
+.ctaImg{
+    margin-top: 44px!important;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .ctaText{
+        margin-inline: 10px;
+        margin-block: 70px;
+    }
+}
