@@ -1,9 +1,10 @@
 .ctaBg{
     background-image: url('../../image/ctmShape.png');
+    margin-bottom: 96px;
 }
 
 .ctaText{
-    margin-inline: 135px;
+    margin-inline: 150px;
 }
 
 .imgPosition{
@@ -15,9 +16,34 @@
     
 }
 
+/* ........Button........... */
+
+.ctaButton{
+    width: 144.97px;
+    height: 52px;
+}
+
+.appleLogo{
+    font-size: 27px;
+}
+
+.smallText{
+    font-size: xx-small;
+}
+/* .......................... */
+
+
 @media only screen and (max-width: 600px) {
     .ctaText{
         margin-inline: 10px;
         margin-block: 70px;
     }
+
+    .ctaButton{
+        width: 144.97px;
+        height: 52px;
+        margin-top: 10px;
+        padding: 0;
+    }
+
 }
