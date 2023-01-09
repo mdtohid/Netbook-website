@@ -1,0 +1,28 @@
+.blog{
+    margin-inline: 135px!important;
+}
+
+
+.line {
+  overflow: hidden;
+}
+
+.line:before{
+  background-color: orange;
+  content: "";
+  display: inline-block;
+  height: 2px;
+  position: relative;
+  vertical-align: middle;
+  width: 39px;
+  right: 10px;
+}
+
+.blogArrow{
+  width: 10px;
+  height: 10px;
+}
+
+/* .pBlogMg{
+  margin-left: 39px;
+} */
