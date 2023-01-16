@@ -9,12 +9,12 @@ import './Blog.css';
 
 const Blog = () => {
     return (
-        <div>
+        <div className='blog'>
             <div className='text-center'>
             <p className='text-primary'>Get Our Aplication</p>
             <h1>Latest News</h1>
             </div>
-            <div className="row row-cols-1 row-cols-md-3 g-4 blog">
+            <div className="row row-cols-1 row-cols-md-3 g-4 blogItems">
                 <div className="col">
                         <div className="card border-0">
                             <img src={blogImg1} alt="" srcset=""  className='card-img-top'/>                

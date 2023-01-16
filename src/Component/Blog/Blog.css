@@ -1,4 +1,8 @@
 .blog{
+  margin-bottom: 97px;
+}
+
+.blogItems{
     margin-inline: 135px!important;
 }
 
@@ -26,3 +30,9 @@
 /* .pBlogMg{
   margin-left: 39px;
 } */
+
+@media only screen and (max-width: 600px) {
+  .blogItems{
+    margin-inline: 60px!important;
+}
+}
