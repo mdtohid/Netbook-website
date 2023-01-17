@@ -22,4 +22,15 @@
     }
   }
 
+@media only screen and (max-width: 407px) {
+    .avatarHidden{
+        display: none;
+    }
+
+    .introText{
+        margin: 25px 15px;
+    }
+    
+  }
+
 
