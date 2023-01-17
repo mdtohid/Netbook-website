@@ -1,4 +1,5 @@
 .header{
     background-image: url('../../image/base.png');
+    background-size: cover;
     margin-bottom: 96px;
 }
