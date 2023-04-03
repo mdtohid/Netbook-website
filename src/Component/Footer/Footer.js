@@ -10,7 +10,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         
-        <div>
+        <div className=''>
             <div className='d-flex footerTop'>
                 <div className='col col-lg-8'>
                     <div className='menu d-flex'>
@@ -42,7 +42,6 @@ const Footer = () => {
                             <a href="/" className='text-decoration-none text-white  aTagMenu'>Groups</a>
                             <a href="/" className='text-decoration-none text-white  aTagMenu'>Private Group</a>
                         </div>
-
                     </div>
                 </div>
 
