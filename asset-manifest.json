@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Netbook-website/static/css/main.2b38811a.css",
+    "main.js": "/Netbook-website/static/js/main.abba3716.js",
+    "static/js/787.ad076242.chunk.js": "/Netbook-website/static/js/787.ad076242.chunk.js",
+    "static/media/mobileMockup.png": "/Netbook-website/static/media/mobileMockup.8aa3b7092bb8ebe54142.png",
+    "static/media/base.png": "/Netbook-website/static/media/base.1956bde5f476df4585c7.png",
+    "static/media/featuresBase.png": "/Netbook-website/static/media/featuresBase.d4a17007e054d6f991f1.png",
+    "static/media/blogImg1.png": "/Netbook-website/static/media/blogImg1.9e05dd2838d10781d305.png",
+    "static/media/blogImg2.png": "/Netbook-website/static/media/blogImg2.61d6203879d40c0f47bf.png",
+    "static/media/blogImg3.png": "/Netbook-website/static/media/blogImg3.86ed1ecb706b5ba41f54.png",
+    "static/media/about1.png": "/Netbook-website/static/media/about1.2cbeb2607b3cdefe14e5.png",
+    "static/media/about3.png": "/Netbook-website/static/media/about3.3b7fb0b5eb56095423e8.png",
+    "static/media/about2.png": "/Netbook-website/static/media/about2.ca9e50dbd42681a7f7a8.png",
+    "static/media/lamge.png": "/Netbook-website/static/media/lamge.ee52d7b084e8170f900a.png",
+    "static/media/teamMember1.png": "/Netbook-website/static/media/teamMember1.527e1032779e942089a1.png",
+    "static/media/group (2).png": "/Netbook-website/static/media/group (2).c1c6bb4ebb1585becc13.png",
+    "static/media/listBuilder.png": "/Netbook-website/static/media/listBuilder.a90a969c7479cd5627e7.png",
+    "static/media/listScrollEffects.png": "/Netbook-website/static/media/listScrollEffects.9419087abc34bb171625.png",
+    "static/media/forum.png": "/Netbook-website/static/media/forum.acd1406117b893cb5a82.png",
+    "static/media/custom.png": "/Netbook-website/static/media/custom.26f56c7b3e99a186ed9a.png",
+    "static/media/membersIcon.png": "/Netbook-website/static/media/membersIcon.cab000a045471c5a7219.png",
+    "index.html": "/Netbook-website/index.html",
+    "main.2b38811a.css.map": "/Netbook-website/static/css/main.2b38811a.css.map",
+    "main.abba3716.js.map": "/Netbook-website/static/js/main.abba3716.js.map",
+    "787.ad076242.chunk.js.map": "/Netbook-website/static/js/787.ad076242.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b38811a.css",
+    "static/js/main.abba3716.js"
+  ]
+}
